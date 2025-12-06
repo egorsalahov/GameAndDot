@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GameAndDot.Client/GameAndDot.Client.csproj" />
+  <Project Path="GameAndDot.GUI/GameAndDot.GUI.csproj" />
+  <Project Path="GameAndDot.Server/GameAndDot.Server.csproj" />
+  <Project Path="GameAndDot.Shared/GameAndDot.Shared.csproj" Id="9dc5b581-6e70-426d-91c4-25b4af99640c" />
+</Solution>
